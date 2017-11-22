@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="13533" systemVersion="16G1036" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Dataxc" representedClassName="Dataxc" syncable="YES" codeGenerationType="class">
+        <attribute name="coinAlgo" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="coinName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="coinSymbol" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="imagePath" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="totalSuppy" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Dataxc" positionX="-63" positionY="-18" width="128" height="120"/>
+    </elements>
+</model>
